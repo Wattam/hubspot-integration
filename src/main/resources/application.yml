@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: hubspot-integration
+
+logging:
+  level:
+    ROOT: OFF
+    com.meetime.hubspotintegration: INFO
