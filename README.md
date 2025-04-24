@@ -35,8 +35,8 @@ Antes de começar, certifique-se de ter instalado em seu ambiente:
 1.  **Clone o repositório:**
 
 ```bash
-git clone https://github.com/Wattam/.git
-cd seu-repositorio
+git clone https://github.com/Wattam/hubspot-integration.git
+cd hubspot-integration
 ```
 2.  **Abra o repositório com sua IDE de preferência.**
 
